@@ -1,5 +1,5 @@
 # Amazon Vine Analysis
-The purpose of this analysis is to determine whether paying Amazon reviewers via the 'Amazon Vine' program biases reviews. For this analysis, we have focused on reviews in the Beauty vertical. 
+The purpose of this analysis is to determine whether paying Amazon reviewers via the Amazon 'Vine' program positively biases reviews. For this analysis, we have focused on reviews in the Beauty vertical. 
 
 ## Results
 Of the 74,760 Beauty product reviews, less than 1% were Vine reviews (*n*=647). The differences between Vine and non-Vine product reviews are outlined below. 
@@ -27,7 +27,6 @@ We recommend conducting an independent samples t-test to determine whether the d
 **Variables:** <br/>
 Independent Variable: Vine review status (Levels: Vine Review, Non-Vine Review)<br/>
 Dependent Variable: Star Rating<br/>
-<br/>
 
 **Hypotheses:** <br/>
 H0: There is no difference in star ratings between Vine and non-Vine reviews. <br/>
