@@ -26,7 +26,7 @@ We recommend conducting an independent samples t-test to determine whether the d
 
 **Variables:** <br/>
 Independent Variable: Vine review status (Levels: Vine Review, Non-Vine Review)<br/>
-Dependent Variable: Star Rating<br/>
+Dependent Variable: Star rating<br/>
 
 **Hypotheses:** <br/>
 H0: There is no difference in star ratings between Vine and non-Vine reviews. <br/>
